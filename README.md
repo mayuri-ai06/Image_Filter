@@ -1,2 +1,28 @@
-# Image_Filter
-🌈 A beginner-friendly Streamlit app to upload images, apply multiple filters, and download the processed image using Python &amp; Pillow.
+# 🌈 Image Filter Playground
+
+Image Filter Playground is a beginner-friendly Streamlit web application that allows users to upload an image, apply different image filters, and download the filtered image instantly.
+
+This project is designed to help beginners understand basic image processing concepts using Python and Pillow (PIL) while building an interactive web app with Streamlit.
+
+## 🚀 Features
+- Upload images (JPG, PNG, JPEG)
+- Apply multiple filters:
+  - Blur
+  - Grayscale
+  - Sharpen
+  - Contour
+  
+- Real-time image preview
+- Download the filtered image
+- Simple and clean user interface
+
+## 🛠️ Tech Stack
+- Python
+- Streamlit
+- Pillow (PIL)
+
+## ▶️ How to Run the Project
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
