@@ -15,7 +15,7 @@ This project is designed to help beginners understand basic image processing con
 - Real-time image preview
 - Download the filtered image
 - Simple and clean user interface
- ![App Screenshot](https://github.com/mayuri-ai06/Image_Filter/blob/main/virat.grayscale.png?raw=true)
+ ![App Screenshot](https://github.com/mayuri-ai06/Image_Filter/blob/main/assets/virat.grayscale.png?raw=true)
  ![App Screenshot](https://github.com/mayuri-ai06/Image_Filter/blob/main/virat.py.png?raw=true)
 
 ## 🛠️ Tech Stack
